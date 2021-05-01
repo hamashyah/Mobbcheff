@@ -8,7 +8,7 @@
 <!-- Begin Jekyll SEO tag v2.7.1 -->
 <title>mobbcheff</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="mobbcheff" />
+<meta property="og:title" content="Mobbcheff" />
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="https://hamashyah.github.io/mobbcheff/" />
 <meta property="og:url" content="https://hamashyah.github.io/mobbcheff/" />
@@ -24,10 +24,10 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://hamashyah.github.io/mobbcheff/">mobbcheff</a></h1>
+      
       
 
-      <p><img src="https://images2.imgbox.com/78/9d/b0SjqGrT_o.png" width="1600" height="650" /></p>
+      <p><img src="https://images2.imgbox.com/78/9d/b0SjqGrT_o.png" width="1600" height="450" /></p>
 
 
       
